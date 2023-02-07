@@ -1,6 +1,6 @@
 {
-  "name": "ajv-cli",
-  "version": "5.0.0",
+  "name": "@rodrigoff/ajv-cli",
+  "version": "5.1.0",
   "description": "Command line interface for Ajv JSON schema validator",
   "scripts": {
     "build": "rimraf dist && tsc",
